@@ -1,1 +1,1 @@
-# MY-OWN-INFINITE-GAME
+# infinite-Game
